@@ -1,0 +1,49 @@
+ 	
+
+What is it?
+	
+
+HTML : A markup language used primarily for displaying structured content in a browser.
+	
+
+XML : A markup language used primarily for exchanging structured data between computer systems.
+
+Year of release
+	
+
+HTML : 1998.
+	
+
+XML : 1993.
+
+Purpose
+	
+
+HTML : Presentation language.
+	
+
+XML : Data exchange language.
+
+Use when
+	
+
+HTML : Building client-side webpages or web apps.
+	
+
+XML : Exchanging data between two systems (but check if JSON is a better format for you).
+
+Tags
+	
+
+HTML : Predefined tags.
+	
+
+XML : Extendible tags.
+
+Typing
+	
+
+HTML : Dynamic.
+	
+
+XML : Fixed when using an XML schema.
